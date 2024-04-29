@@ -9,13 +9,13 @@ to [Podcast Index](https://podcastindex.org) and the iTunes store.
 Visit the **official website** for more information, documentation, demo and to
 download the latest stable release:
 
-<http://podcastgenerator.net>
+<https://podcastgenerator.net>
 
 ## Download the latest release
 
 Download the latest stable release on the official website:
 
-<http://podcastgenerator.net/download>
+<https://podcastgenerator.net/download>
 
 ## Contribute
 
@@ -29,7 +29,7 @@ For this please open an issue on GitHub.
 
 A fully-functional live demo of Podcast generator is available at:
 
-<http://podcastgenerator.net/demo>
+<https://podcastgenerator.net/demo>
 
 ## Copyright
 
